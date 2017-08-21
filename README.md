@@ -1,1 +1,1 @@
-# ex00 Github exercise
+# ex00-Github Exercise
